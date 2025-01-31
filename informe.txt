@@ -1,0 +1,17 @@
+Fecha: jue 12 dic 2024 11:38:51 -03 
+Generado por: 
+Usuario del sistema: educacionit (1000)
+Terminal: pts/1 
+ 
+ -- Informacion del SO --
+ 
+ 
+Nombre: Debian GNU/Linux
+Version: 12 (bookworm)
+ 
+recursos del sistema
+ 
+MemTotal:        2014556 kB
+ 
+model name	: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+
